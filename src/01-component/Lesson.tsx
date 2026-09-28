@@ -4,4 +4,15 @@
 //
 // Więcej o tym temacie: https://react.dev/learn/your-first-component
 
-export const Lesson = () => <h2>1. Komponent jako funkcja</h2>;
+import { OrderCard } from "./components/OrderCard";
+import { PanelHeader } from "./components/PanelHeader";
+
+export const Lesson = () => (
+  <section>
+    <PanelHeader />
+    <OrderCard />
+    <OrderCard />
+    <OrderCard />
+    <OrderCard />
+  </section>
+);
