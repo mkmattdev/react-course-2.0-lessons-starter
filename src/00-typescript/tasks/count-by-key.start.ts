@@ -3,7 +3,7 @@
 ////////
 //
 // Uruchamiamy: node src/00-typescript/tasks/count-by-key.start.ts
-// Rozwiązanie dostaniecie po zajęciach.
+// Rozwiązanie: tasks/count-by-key.solution.ts
 {
   // Panel sklepu pokazuje, ile zamówień jest w każdym statusie i ile jedzie każdym kurierem.
   //

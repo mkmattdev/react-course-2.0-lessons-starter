@@ -3,7 +3,7 @@
 ////////
 //
 // Uruchamiamy: node src/00-typescript/tasks/promo-price.start.ts
-// Rozwiązanie dostaniecie po zajęciach.
+// Rozwiązanie: tasks/promo-price.solution.ts
 {
   // Sklep daje 25% rabatu na wszystko. Policz ceny po rabacie.
   //
